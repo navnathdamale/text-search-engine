@@ -1,0 +1,2 @@
+This is the tenth resource file for testing searching utility.
+Some extra

@@ -1,0 +1,2 @@
+This is the twelfth resource file for testing searching utility.
+Some extra

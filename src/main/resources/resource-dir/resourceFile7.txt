@@ -1,0 +1,2 @@
+This is the seventh resource file for testing searching utility.
+Some extra words for

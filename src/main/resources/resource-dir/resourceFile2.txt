@@ -1,0 +1,2 @@
+This is the second resource file for testing searching utility.
+Some extra words for testig some specific use

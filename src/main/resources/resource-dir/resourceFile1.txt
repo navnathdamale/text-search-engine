@@ -1,0 +1,3 @@
+This is the first resource file for testing searching utility.
+Some extra words for testig some specific use cases.
+to be or not to be
